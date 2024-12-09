@@ -1,0 +1,103 @@
+.logo{
+    width:200px;
+    height:80px;
+    margin-right:100px;
+}
+.wholediv{
+    background-color: black;
+    margin-bottom: 0;
+}
+.div{
+    background-color: black;
+    display: -webkit-inline-flex;
+}
+.signin{
+    background-color: aliceblue;
+    color:black;
+    width:80px;
+    height:30px;
+    border-radius: 25px;
+    border-color: aliceblue;
+    margin-left: 950px;
+    margin-top: 25px;
+    margin-right: 30px;
+}
+.text-screen {
+    position: relative;
+    width: 1350px;
+    height: 550px; 
+  }
+.screen{
+    width: 90%;
+    height: 95%;
+    object-fit: cover; 
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 50px;
+  }
+  
+  .screen-text1 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+  .screen-text2{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+  .screen-text3 {
+    position: absolute;
+    top:82%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+  .mailinput{
+    border-radius: 40px;
+    background-color: rgba(0, 0, 0, 0.462);
+    border-color: white;
+    font-size: 15px;
+    height: 45px;
+    width:300px;
+    margin-left:420px;
+  }
+  .mailbtn{
+    background-color: red;
+    border:none;
+    border-radius: 30px;
+    width:100px;
+    height:45px;
+    margin-left:20px;
+  }
+  .body-text{
+    color:rgba(255, 255, 255, 0.604);
+    text-align: center;
+    font-size:18px;
+
+  }
+  .trend-text{
+    margin-left: 150px;
+    font-size:35px;
+    color:rgba(255, 255, 255, 0.776);
+}
+  
